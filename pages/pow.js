@@ -1,8 +1,9 @@
 import Head from 'next/head'
+import styles from '../styles/Home.module.css'
 
 export default function pow() {
     return (
-        <div>
+        <div className={styles.container}>
             <Head>
                 <title>Proof of Work</title>
                 <meta name="description" content="Proof of Work" />

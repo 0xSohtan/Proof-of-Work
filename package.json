@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "proof-of-work",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.7.7",
+    "graphql": "^16.6.0",
     "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"

@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import styles from '@styles/Home.module.css'
 
 console.log("Created by 0x");
 

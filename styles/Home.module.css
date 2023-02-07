@@ -1,3 +1,13 @@
 .container{
     text-align: center;
 }
+
+.block{
+    width: 11px;
+    height: 11px;
+}
+
+.squers{
+    display: flex;
+    list-style: none;
+}

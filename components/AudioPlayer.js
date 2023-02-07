@@ -1,6 +1,6 @@
 import React, { useState, useRef } from "react";
 
-const src = "/assets/audio/Lofi.mp3";
+const src = "@assets/audio/Lofi.mp3";
 
 const AudioPlayer = ({ src, nextAudio }) => {
   const [isPlaying, setIsPlaying] = useState(false);

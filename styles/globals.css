@@ -8,4 +8,10 @@ body {
   padding: 0;
   margin: 0;
   font-family: Circular;
+  overflow: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
 }
